@@ -8,15 +8,17 @@ Date: May 23, 2023
 
 The project aims to tackle the prevalent issue of hate speech and abusive language in tweets, leveraging the popularity and widespread use of Twitter as a platform for expressing opinions, sharing thoughts, and engaging in conversations. As social media continues to play a significant role in shaping public discourse, it is crucial to address the rising tide of online hate speech and its negative impact on individuals and communities. With recent advancements in AI text generation, the concern further intensifies as these language models are trained on large volumes of online text, including hate speech, thereby potentially perpetuating biased and harmful content. This project focuses on developing mechanisms to detect hate speech in tweets and promote the generation of non-biased text. Different approaches that are based on the topics covered in the course were experimented for our specific task. We show a diagram that outlines our pipeline to detect hate speech in Fig 1, and the improved approach of this pipeline in Fig 2. 
 
-![Diagram 1](Picture1.JPG)
+![Diagram 1](Picture1.jpg)
+
 *Fig. 1*: *The diagram illustrates our pipeline for hate speech detection*.
 
 ![Diagram 2](Picture2.png)
+
 *Fig. 2*: *The diagram illustrates the enhanced iteration of the model, where the components highlighted in red have been incorporated to enhance the system's performance.*.
 
-## Running the program
+## Setup the program
 
-You will need to set up an appropriate coding environment on whatever computer you expect to use for this assignment.
+You will need to set up an appropriate coding environment.
 Minimally, you should install:
 
 * [git](https://git-scm.com/downloads)
@@ -24,19 +26,12 @@ Minimally, you should install:
 * [Maven](https://maven.apache.org/)
 * Sign up for the Twitter developer portal and get the Twitter API (consumerKey, consumerSecret, accessToken, accessTokenSecret) and store it in config.properties file in the root folder
 
-Firstly, copy this repository to your local directory by executing:
-
-```
-git clone https://github.com/Rupaljain27/Hate_Speech_Detection_in_Tweets.git
-```
-
 ## Execution
 
 Please follow the below guidelines to run the program:
 
 Compatibility:
 Browser: Google Chrome, Microsoft Edge; OS: Windows, MAC
-
 
 ### Neural Network in Jupyter Notebook
 
