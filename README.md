@@ -12,7 +12,7 @@ The project aims to tackle the prevalent issue of hate speech and abusive langua
 
 *Fig. 1*: *The diagram illustrates our pipeline for hate speech detection*.
 
-![Diagram 2](Picture2.png)
+![Diagram 2](Picture2.jpg)
 
 *Fig. 2*: *The diagram illustrates the enhanced iteration of the model, where the components highlighted in red have been incorporated to enhance the system's performance.*.
 
