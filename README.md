@@ -75,6 +75,7 @@ java edu.arizona.cs.QueryEngine
 
 * https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
 * https://huggingface.co/pysentimiento/bertweet-hate-speech
+* https://huggingface.co/docs/transformers/model_doc/bertweet
 * https://github.com/aymeam/Datasets-for-Hate-Speech-Detection
 * https://twitter4j.org/configuration
 * https://jar-download.com/artifacts/org.twitter4j/twitter4j-core/4.0.6/source-code/twitter4j/Paging.java
